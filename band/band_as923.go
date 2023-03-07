@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/brocaar/lorawan"
+	"github.com/fraanx/lorawan"
 )
 
 type as923Band struct {
