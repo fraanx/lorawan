@@ -1,4 +1,4 @@
-module github.com/fraanx/lorawan
+module github.com/fraanx/lorawan/v0
 
 require (
 	github.com/NickBall/go-aes-key-wrap v0.0.0-20170929221519-1c3aa3e4dfc5
