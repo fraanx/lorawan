@@ -79,6 +79,7 @@ const (
 	LoRaModulation   Modulation = "LORA"
 	FSKModulation    Modulation = "FSK"
 	LRFHSSModulation Modulation = "LR_FHSS"
+	XSSModulation Modulation = "XSS"
 )
 
 // DataRate defines a data rate
